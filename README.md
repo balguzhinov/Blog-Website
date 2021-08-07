@@ -1,2 +1,2 @@
-# My first website implemented with HTML, CSS, JavaScript
+# My first website implemented with HTML, CSS, BootStrap, JavaScript
 Website
